@@ -4,31 +4,35 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="~/css/styles.css">
     <meta charset="utf-8">
-    <link rel="shortcut icon" href="https://emojipedia-us.s3.amazonaws.com/thumbs/320/microsoft/58/squared-cool_1f192.png" /> 
+    <link rel="shortcut icon" href="https://emojipedia-us.s3.amazonaws.com/thumbs/320/microsoft/58/squared-cool_1f192.png" />
     <title>DayFinder</title>
   </head>
   <body>
-    <p>ENTER A DATE WITH NUMBERS (FORMAT MM/DD/YYYY) TO SEE WHAT DAY OF THE WEEK IT IS.</p>
+    <p><span class="glower">DAYFINDER</span></p>
     <div class="container">
       <form action="/result" method="post">
         <label for="month">ENTER MONTH: </label>
-        <input class="form-control" name="month" type="number" min="1" max="12" required="true">
+        <input name="month" type="number" min="1" max="12" required="true">
 
         <label for="day">ENTER DAY: </label>
-        <input class="form-control" name="day" type="number" min="1" max="31" required="true">
+        <input name="day" type="number" min="1" max="31" required="true">
 
         <label for="year">ENTER YEAR: </label>
-        <input class="form-control" name="year" type="number" min="1" max="9999" required="true">
-
-      <button type="submit">DayFind It!</button>
+        <input name="year" type="number" min="1" max="9999" required="true">
+        <br>
+        <br>
+      <div class="flex-box">
+        <button type="submit" class="button">DayFind It!</button>
+      </div>
+    </div>
     <div class="container">
       @if (@Model == "")
       {
-        <p>You have not entered a date to analyze.</p>
+        <p><span class="glower">You have not entered a date to analyze.</span></p>
       }
       else
       {
-      <p>@Model</p>
+      <p><span class="glower">@Model</span></p>
       }
     </div>
   </body>

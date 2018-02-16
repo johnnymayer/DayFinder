@@ -6,3 +6,25 @@ body {
   font-size: 32px;
   color: white;
 }
+
+button {
+  filter: blur(1px);
+  display: inline-block;
+}
+button:hover {
+  filter: blur(3px);
+}
+
+.glower {
+  font-size: 112px;
+  color: white;
+  text-shadow: 2px 2px 62px white;
+}
+
+label {
+  font-size: .75em;
+}
+input {
+  width: 10%;
+  display: inline-block;
+}
