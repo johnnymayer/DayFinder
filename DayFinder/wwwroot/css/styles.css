@@ -1,5 +1,8 @@
 body {
-  background-image: url("https://media.giphy.com/media/ygAaR0n5RsyAM/giphy.gif");
+  text-align: center;
+  background-image: url("https://media.giphy.com/media/M6hgceLnI2uJi/giphy.gif");
   background-size: cover;
   background-repeat: no-repeat;
+  font-size: 32px;
+  color: white;
 }
