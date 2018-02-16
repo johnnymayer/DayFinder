@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="~/css/styles.css">
+    <meta charset="utf-8">
+    <title>DayFinder</title>
+  </head>
+  <body>
+    <p>ENTER A DATE WITH NUMBERS (FORMAT MM/DD/YYYY) TO SEE WHAT DAY OF THE WEEK IT IS.</p>
+    <div class="container">
+      <form action="/result" method="post">
+        <label for="month">ENTER MONTH: </label>
+        <input class="form-control" name="month" type="number" required="true">
+
+        <label for="day">ENTER DAY: </label>
+        <input class="form-control" name="day" type="number" required="true">
+
+        <label for="year">ENTER YEAR: </label>
+        <input class="form-control" name="year" type="number" required="true">
+
+      <button type="submit">DayFind It!</button>
+    <div class="container">
+      @if (@Model == "")
+      {
+        <p>You have not entered a date to analyze.</p>
+      }
+      else
+      {
+      <p>@Model</p>
+      }
+    </div>
+  </body>
+</html>

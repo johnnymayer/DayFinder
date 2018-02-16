@@ -1,0 +1,13 @@
+/Users/Guest/Desktop/DayFinder/DayFinder.Tests/bin/Debug/netcoreapp1.1/DayFinderTests.deps.json
+/Users/Guest/Desktop/DayFinder/DayFinder.Tests/bin/Debug/netcoreapp1.1/DayFinderTests.runtimeconfig.json
+/Users/Guest/Desktop/DayFinder/DayFinder.Tests/bin/Debug/netcoreapp1.1/DayFinderTests.runtimeconfig.dev.json
+/Users/Guest/Desktop/DayFinder/DayFinder.Tests/obj/Debug/netcoreapp1.1/DayFinderTests.AssemblyInfo.cs
+/Users/Guest/Desktop/DayFinder/DayFinder.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Guest/Desktop/DayFinder/DayFinder.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Guest/Desktop/DayFinder/DayFinder.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Guest/Desktop/DayFinder/DayFinder.Tests/bin/Debug/netcoreapp1.1/DayFinderTests.dll
+/Users/Guest/Desktop/DayFinder/DayFinder.Tests/bin/Debug/netcoreapp1.1/DayFinderTests.pdb
+/Users/Guest/Desktop/DayFinder/DayFinder.Tests/bin/Debug/netcoreapp1.1/DayFinder.dll
+/Users/Guest/Desktop/DayFinder/DayFinder.Tests/bin/Debug/netcoreapp1.1/DayFinder.pdb
+/Users/Guest/Desktop/DayFinder/DayFinder.Tests/obj/Debug/netcoreapp1.1/DayFinderTests.dll
+/Users/Guest/Desktop/DayFinder/DayFinder.Tests/obj/Debug/netcoreapp1.1/DayFinderTests.pdb

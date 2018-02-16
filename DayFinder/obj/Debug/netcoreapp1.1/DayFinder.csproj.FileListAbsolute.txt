@@ -1,0 +1,8 @@
+/Users/Guest/Desktop/DayFinder/DayFinder/bin/Debug/netcoreapp1.1/DayFinder.deps.json
+/Users/Guest/Desktop/DayFinder/DayFinder/bin/Debug/netcoreapp1.1/DayFinder.runtimeconfig.json
+/Users/Guest/Desktop/DayFinder/DayFinder/bin/Debug/netcoreapp1.1/DayFinder.runtimeconfig.dev.json
+/Users/Guest/Desktop/DayFinder/DayFinder/bin/Debug/netcoreapp1.1/DayFinder.dll
+/Users/Guest/Desktop/DayFinder/DayFinder/bin/Debug/netcoreapp1.1/DayFinder.pdb
+/Users/Guest/Desktop/DayFinder/DayFinder/obj/Debug/netcoreapp1.1/DayFinder.AssemblyInfo.cs
+/Users/Guest/Desktop/DayFinder/DayFinder/obj/Debug/netcoreapp1.1/DayFinder.dll
+/Users/Guest/Desktop/DayFinder/DayFinder/obj/Debug/netcoreapp1.1/DayFinder.pdb
