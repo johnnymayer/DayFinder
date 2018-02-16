@@ -6,3 +6,13 @@
 /Users/Guest/Desktop/DayFinder/DayFinder/obj/Debug/netcoreapp1.1/DayFinder.AssemblyInfo.cs
 /Users/Guest/Desktop/DayFinder/DayFinder/obj/Debug/netcoreapp1.1/DayFinder.dll
 /Users/Guest/Desktop/DayFinder/DayFinder/obj/Debug/netcoreapp1.1/DayFinder.pdb
+/Users/johnnymayer/Desktop/DayFinder/DayFinder/bin/Debug/netcoreapp1.1/DayFinder.deps.json
+/Users/johnnymayer/Desktop/DayFinder/DayFinder/bin/Debug/netcoreapp1.1/DayFinder.runtimeconfig.json
+/Users/johnnymayer/Desktop/DayFinder/DayFinder/bin/Debug/netcoreapp1.1/DayFinder.runtimeconfig.dev.json
+/Users/johnnymayer/Desktop/DayFinder/DayFinder/bin/Debug/netcoreapp1.1/DayFinder.dll
+/Users/johnnymayer/Desktop/DayFinder/DayFinder/bin/Debug/netcoreapp1.1/DayFinder.pdb
+/Users/johnnymayer/Desktop/DayFinder/DayFinder/obj/Debug/netcoreapp1.1/DayFinder.csproj.CoreCompileInputs.cache
+/Users/johnnymayer/Desktop/DayFinder/DayFinder/obj/Debug/netcoreapp1.1/DayFinder.AssemblyInfoInputs.cache
+/Users/johnnymayer/Desktop/DayFinder/DayFinder/obj/Debug/netcoreapp1.1/DayFinder.AssemblyInfo.cs
+/Users/johnnymayer/Desktop/DayFinder/DayFinder/obj/Debug/netcoreapp1.1/DayFinder.dll
+/Users/johnnymayer/Desktop/DayFinder/DayFinder/obj/Debug/netcoreapp1.1/DayFinder.pdb
